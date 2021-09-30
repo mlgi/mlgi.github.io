@@ -21,7 +21,7 @@ My academic interests beyond my field include data modeling and analysis, neuroa
 ### CRM (2020)
 *repo is private because it was made for a personal client*
 
-A basic Customer Resource Management web app made in React and hosted on Firebase Hosting with a database on Firestore.
+A basic Customer Resource Management web app made in React and hosted on Firebase Hosting with a database on Firestore. This web app organizes stores by the routes and drivers assigned to them. It also allows drivers to update inventory on businesses in their routes. Administrators can also edit the routes and add/remove businesses as necessary.
 
 ### DejaVu (2018)
 [repo](https://github.com/mlgi/DejaVu)
@@ -30,19 +30,10 @@ Following several guides and papers linked in the repo, this project implements 
 
 > This project exists to document my creation some sort of neural network library from scratch. I am developing this in order to solidify my understanding of neural networks, not necessarily as a competitor to other existing machine learning libraries out there. 
 
-![racing cars](screenshots/screenshot.png)
-
 ### FileCompression (2017)
 *repo is private due to being class material*
 
-This project was made to demonstrate understanding of the Huffman Encoding Tree to compress and decompress any binary file (with an unknown filesize restriction). The compiled binaries can be called with 
-```
-./compress <input_file> <output_file>
-``` 
-and
-```
-./decompress <compressed_file> <output_file>
-```
+This project was made to demonstrate understanding of the Huffman Encoding Tree to compress and decompress binary file (with an unknown filesize restriction). Additionally, bitwise manipulation was used to properly write the compressed binary files and set up a file header to denote the contents of the tree for decompression.
 
 ---
 ## Skills
@@ -60,12 +51,8 @@ and
   - Scipy
   - Matplotlib
 - C# - Unity Game Engine
-- Bash Scripting
-
----
-## Current Goals
-- [x] Transfer to a University
-- [ ] Update Resume
-- [ ] Get an internship
-- [ ] Graduate
-- [ ] Get a job
+- Bash Scripts
+- FDM and MSLA 3D printer operation and maintenance
+- Adobe Premiere Pro
+- Adobe After Effects
+- Adobe Illustrator
