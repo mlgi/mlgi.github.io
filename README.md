@@ -1,1 +1,1 @@
-https://mlgi.github.io/migi/
+https://mlgi.github.io/
